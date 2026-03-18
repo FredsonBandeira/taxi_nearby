@@ -71,6 +71,6 @@
 	<key>NSMicrophoneUsageDescription</key>
 	<string>Precisamos do microfone para comandos de voz enquanto dirige</string>
 <key>GMSApiKey</key>
-<string>AIzaSyDnUQEQJyFAWW3QZcOw_Evi5AJNMNwgR50</string>
+
 </dict>
 </plist>
